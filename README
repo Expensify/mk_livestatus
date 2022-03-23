@@ -1,0 +1,6 @@
+The code in this repository was forked from the offical upstream code,
+specifically: https://checkmk.com/support/1.5.0p23/mk-livestatus-1.5.0p23.tar.gz
+
+We have created this repo under the permissions granted by the GPLv2 license
+used by original author. It exists for our internal build processes and ensure
+access to the code is maintained even if upstream goes away.
